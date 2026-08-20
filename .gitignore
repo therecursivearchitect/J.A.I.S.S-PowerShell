@@ -1,0 +1,9 @@
+# Ignore system runtime logs, local state, and large binaries
+*.log
+*.tmp
+*.cache
+/vault/
+/state/
+/telemetry/
+.DS_Store
+Thumbs.db
