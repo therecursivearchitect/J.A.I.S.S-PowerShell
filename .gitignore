@@ -1,9 +1,11 @@
-# Ignore system runtime logs, local state, and large binaries
-*.log
-*.tmp
-*.cache
-/vault/
-/state/
-/telemetry/
-.DS_Store
-Thumbs.db
+# Proprietary Weights and Binaries
+/weights/
+/02_Binaries/
+/BIN/
+/DATA/
+/MEMORY/
+/MEM/
+*.bin
+*.json
+*.cfg
+*.txt
