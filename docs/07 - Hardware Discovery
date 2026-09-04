@@ -1,0 +1,7 @@
+# 07 - Hardware Discovery
+
+## CIM / WMI Telemetry Integration
+The SAIHV hardware discovery daemon queries underlying system components to establish baseline execution profiles:
+- **Laptop Hardware Profile:** Initialized RTX hardware discovery and memory binding in `49.05 ms`.
+- **Desktop Hardware Profile:** Initialized discovery and memory allocation in `72.46 ms`.
+- **Telemetry Verification:** Confirmed consistent identification of bus speeds, core counts, and VRAM availability across nodes.
