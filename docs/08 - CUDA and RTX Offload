@@ -1,0 +1,4 @@
+# 08 - CUDA and RTX Offload
+
+## Accelerated Memory Surfaces
+J.A.I.S.S. leverages Direct3D and WPF WriteableBitmap memory surfaces paired with CUDA execution contexts to accelerate gene-kernel evaluation. By bypassing standard OS abstraction bottlenecks, the architecture achieves high-throughput parallel processing of neural receptor states directly on RTX silicon.
