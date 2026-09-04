@@ -1,0 +1,5 @@
+# 14 - Failures and Iterations
+
+## Historical Iteration Log
+- **Initial API Integration:** Early REST endpoints suffered from unhandled header validation errors and improper content-type definitions (`json` vs `application/json`), resolved via explicit MIME type enforcement.
+- **Memory Latency Hurdles:** Early hardware discovery daemons experienced overhead spikes; resolved by streamlining WMI queries and caching hardware profile descriptors.
