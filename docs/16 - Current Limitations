@@ -1,0 +1,5 @@
+# 16 - Current Limitations
+
+## Boundary Constraints
+- **Hardware Prerequisites:** Requires modern multi-core processors and DirectX/CUDA-compatible graphics hardware for optimal offloading.
+- **Scale Limits:** Current gene-kernel complexity is optimized for localized workstation and distributed node deployments; hyper-scale cluster federation remains an active area of future development.
