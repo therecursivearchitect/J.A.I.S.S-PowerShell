@@ -1,0 +1,6 @@
+# 15 - Alternatives Rejected
+
+## Architectural Decisions
+- **Standard Reservoir Computing:** Rejected due to fixed internal recurrent weights that prevent true adaptive learning.
+- **Self-Organizing Maps (SOMs):** Rejected because static grid topologies lack the dynamic gene expression and cross-hardware virtualization required for Sovereign AI deployment.
+- **Standard Deep Learning Classifiers:** Superseded to eliminate catastrophic forgetting and reliance on rigid backpropagation.
