@@ -1,0 +1,4 @@
+# 10 - Determinism and Zero-Drift
+
+## Enforcing Execution Consistency
+Non-deterministic floating-point accumulation and hardware scheduling jitter are mitigated in J.A.I.S.S. through strict quantization standards and deterministic seed locking within the SAIHV virtualization layer. This guarantees identical inference trajectories across diverse host environments.
