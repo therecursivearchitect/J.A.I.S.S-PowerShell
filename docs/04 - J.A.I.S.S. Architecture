@@ -1,0 +1,7 @@
+ 04 - J.A.I.S.S. Architecture
+
+## Gene-Based Weight Kernels
+J.A.I.S.S. replaces traditional scalar weights with structured gene expressions. Each weight kernel possesses activation thresholds, mutation metrics, and historical retention tags.
+
+## Neural Receptor Pipelines
+Inputs are processed through localized resonance gates that evaluate incoming stimulus against active gene profiles, triggering dynamic expression shifts rather than static forward-pass multiplications.
