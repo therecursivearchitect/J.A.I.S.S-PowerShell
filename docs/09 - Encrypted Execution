@@ -1,0 +1,4 @@
+# 09 - Encrypted Execution
+
+## Cryptographic State Wrappers
+To protect proprietary model weights and runtime plasticity parameters, J.A.I.S.S. incorporates multi-stage AES encryption wrappers. Execution states are verified and decrypted into isolated memory buffers only during active inference gates, ensuring absolute tamper resistance against unauthorized inspection.
