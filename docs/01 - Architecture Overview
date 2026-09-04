@@ -1,0 +1,9 @@
+# 01 - Architecture Overview
+
+## Core Vision
+J.A.I.S.S. is structured as a hardware-agnostic, biomimetic cognitive architecture. Rather than relying on rigid neural network layers updated purely via batch gradient descent, J.A.I.S.S. treats network parameters as dynamic "genes" that express, mutate, and adapt based on stimulus history.
+
+## Subsystem Layout
+1. **Virtualization Layer (SAIHV):** Abstracts underlying hardware topologies (WMI/CIM discovery, DirectX/CUDA interfaces) into a uniform execution canvas.
+2. **Plasticity Engine:** Manages gene-weight kernels and evaluates state transitions against historical baselines.
+3. **Cryptographic Integrity Subsystem:** Wraps execution payloads in multi-stage AES wrappers to guarantee state tamper-resistance and auditability.
