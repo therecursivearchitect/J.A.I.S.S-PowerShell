@@ -1,0 +1,8 @@
+Neuromorphic Model
+
+## Paradigm Comparison
+| Metric / Feature | Traditional ML / Classifiers | Reservoir / Neuromorphic | J.A.I.S.S. Architecture |
+|------------------|------------------------------|--------------------------|-------------------------|
+| **Weight Adaptation** | Static post-training | Fixed reservoir, trained readout | Dynamic gene-kernel plasticity |
+| **State Memory** | Stateless forward passes | Recurrent dynamic states | Cryptographically bound historical genes |
+| **Hardware Coupling** | Vendor-locked (CUDA/Tensor) | Specialized neuromorphic silicon | Virtualized via SAIHV |
