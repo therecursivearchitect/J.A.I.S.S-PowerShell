@@ -1,0 +1,5 @@
+# 12 - Benchmark Results
+
+## Performance Tiers
+- **CPU-Only Baseline:** Stable execution with predictable linear latency scaling.
+- **GPU-Offloaded Tier (RTX):** Achieves near-instantaneous parallel receptor evaluation, reducing per-cycle latency significantly while maintaining zero divergence from CPU reference runs.
