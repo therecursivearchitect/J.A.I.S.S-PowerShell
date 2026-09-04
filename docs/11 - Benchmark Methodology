@@ -1,0 +1,8 @@
+# 11 - Benchmark Methodology
+
+## Standardized Testing Framework
+Benchmarks are executed across identical hardware make profiles on separate physical machines (laptop vs. desktop). Metrics captured include:
+1. Cold-start initialization latency (ms).
+2. Throughput per gene-kernel evaluation cycle.
+3. Memory consumption footprint under sustained load.
+4. Plasticity stability delta over extended execution runs.
