@@ -1,0 +1,9 @@
+# SKILL: Silicon_Safety_Guardrail
+# VERSION: 1.0.0
+# STATUS: INSTANTIATED & ACTIVE
+# OBJECTIVE: Enforce strict thermal, power, and clock-speed bounds across enterprise silicon infrastructure.
+
+[Step 1] Interrogate hardware sensor arrays (GPU/CPU thermal junctions and power drawers).
+[Step 2] Compare real-time metrics against pre-configured enterprise safety envelopes (e.g., max 85C thermal ceiling).
+[Step 3] Trigger immediate hardware-level throttling or graceful pause if thresholds are approached.
+[Step 4] Log safety enforcement action to immutable ledger and dissolve transient memory.

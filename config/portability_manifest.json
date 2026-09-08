@@ -1,0 +1,16 @@
+{
+  "SystemName": "J.A.I.S.S",
+  "Version": "1.0.0-binary",
+  "CreatedTimestamp": "2026-09-05 06:51:34",
+  "TargetArchitecture": "Cross-System Portable PE",
+  "Silos": [
+    "bin",
+    "config",
+    "Telemetry",
+    "Weights",
+    "Staging",
+    "LAB",
+    "SYSTEM_CORE",
+    "ARCHIVE"
+  ]
+}

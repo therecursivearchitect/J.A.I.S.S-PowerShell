@@ -1,0 +1,9 @@
+# SKILL: Zero_Trust_Execution_Boundary
+# VERSION: 1.0.0
+# STATUS: INSTANTIATED & ACTIVE
+# OBJECTIVE: Guarantee strict containerized isolation for all JIT ephemeral executions.
+
+[Step 1] Allocate sandboxed execution runspace with restricted memory and network namespaces.
+[Step 2] Strip inbound telemetry payloads of unauthorized environmental tokens.
+[Step 3] Execute procedure strictly within isolated boundary constraints.
+[Step 4] Purge sandbox memory registers immediately upon completion; zero residual leakage.

@@ -1,0 +1,2 @@
+Timestamp,GovernorGate,SafetyThreshold,ActionTriggered,Status
+2026-09-02 14:01:57,Thermal_And_Register_Gate,85C_Max,Dynamic_Throttling_Prevention,GOVERNOR_ACTIVE

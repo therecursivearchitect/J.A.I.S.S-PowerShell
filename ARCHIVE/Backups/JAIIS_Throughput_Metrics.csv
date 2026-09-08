@@ -1,0 +1,2 @@
+Timestamp,ExecutionMode,Iterations,DurationMs,ThroughputGBps,Status
+2026-09-02 13:22:33,CUDA_Scalpel_Warp_Engine,100000,156,1,185.90,VERIFIED

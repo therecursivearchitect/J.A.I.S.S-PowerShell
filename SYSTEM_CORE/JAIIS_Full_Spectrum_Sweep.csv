@@ -1,0 +1,4 @@
+Timestamp,SiliconStratum,HardwareTier,ExecutionCycles,LatencyMs,ThroughputGBps,Status
+2026-09-02 13:28:41,Stratum1_Legacy_CPU,Bottom_Barrel,10000,8,62.50,PASSED_BASELINE
+2026-09-02 13:28:41,Stratum2_Integrated_Edge,Mid_Tier,50000,49,357.14,PASSED_EDGE
+2026-09-02 13:28:41,Stratum3_CUDA_Elite,Foundry_Acceleration,500000,485,2,494.85,ELITE_UNLOCKED

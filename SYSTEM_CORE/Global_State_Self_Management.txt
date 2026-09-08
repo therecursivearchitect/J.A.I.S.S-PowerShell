@@ -1,0 +1,11 @@
+# SKILL: Global_State_Self_Management
+# VERSION: 1.0.1
+# STATUS: INSTANTIATED & ACTIVE
+# OBJECTIVE: Autonomously verify global register equilibrium, detect state drift, and trigger recursive self-healing.
+
+[Step 1] Interrogate global J.A.I.S.S. environment registers and root paths.
+[Step 2] Validate active silo manifests against global zero-drift checksums.
+[Step 3] Execute automatic reconciliation if state drift exceeds 0.00%.
+[Step 4] Record recursive optimization telemetry and dissolve transient runspace.
+
+[Recursive Self-Healing Note #1]: Accelerated checksum hash calculation by caching structural manifest keys.

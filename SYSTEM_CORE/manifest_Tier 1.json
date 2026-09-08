@@ -1,0 +1,6 @@
+{
+  "Timestamp": "2026-09-02 08:29:03",
+  "Device": "Raspberry Pi / Minimal Linux SBC",
+  "Tier": "Tier 1 (Edge)",
+  "ExecutionProfile": "CPU_Vector_Fallback"
+}

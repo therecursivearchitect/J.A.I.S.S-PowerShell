@@ -1,0 +1,9 @@
+# SKILL: Cryptographic_Audit_Trail
+# VERSION: 1.0.0
+# STATUS: INSTANTIATED & ACTIVE
+# OBJECTIVE: Maintain unalterable cryptographic proof of every execution cycle and state change.
+
+[Step 1] Intercept pre-execution and post-execution state objects.
+[Step 2] Compute real-time SHA-256 cryptographic fingerprints for procedural manifests and payload outputs.
+[Step 3] Append fingerprint tuple to decentralized immutable audit register.
+[Step 4] Verify chain integrity against parent hash before releasing ephemeral execution lock.

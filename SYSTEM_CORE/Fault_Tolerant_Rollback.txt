@@ -1,0 +1,9 @@
+# SKILL: Fault_Tolerant_Rollback
+# VERSION: 1.0.0
+# STATUS: INSTANTIATED & ACTIVE
+# OBJECTIVE: Instantly recover from execution anomalies via automated zero-drift state reversion.
+
+[Step 1] Continuously monitor execution heartbeat and return code metrics.
+[Step 2] If execution divergence or exception occurs, isolate failing silo runspace instantly.
+[Step 3] Retrieve last verified pristine cryptographic anchor from cloud storage.
+[Step 4] Execute atomic rollback to establish 1:1 parity with verified baseline, alerting enterprise telemetry dashboard.

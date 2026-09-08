@@ -1,0 +1,13 @@
+{
+  "Status": "Fully Operational",
+  "VoiceEngine": "Piper ONNX",
+  "Timestamp": "2026-09-02 08:15:04",
+  "Model": "en_US-amy-medium",
+  "SystemName": "J.A.I.S.S",
+  "Paths": {
+    "PiperBinary": "C:\\J.A.I.S.S\\Voice\\piper.exe",
+    "Config": "C:\\J.A.I.S.S\\Config",
+    "Voice": "C:\\J.A.I.S.S\\Voice",
+    "ModelFile": "C:\\J.A.I.S.S\\Voice\\en_US-amy-medium.onnx"
+  }
+}

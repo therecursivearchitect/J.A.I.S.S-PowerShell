@@ -1,0 +1,10 @@
+{
+  "Workspace": "C:\\Users\\timpa\\OneDrive\\Documents\\SAIHV",
+  "StaticInvariants": [
+    "Reality_Consistency == TRUE",
+    "Logic_Identity == MANDATORY"
+  ],
+  "PrimaryHardware": "Ryzen CPU / RTX 3060 Ti",
+  "RootDirectory": "C:\\J.A.I.S.S",
+  "SystemDesignator": "J.A.I.S.S. (Just A Intelligent Secure System)"
+}

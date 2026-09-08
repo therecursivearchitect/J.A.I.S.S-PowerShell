@@ -1,0 +1,10 @@
+# SKILL: Silicon_Telemetry_Harvest
+# VERSION: 1.0.1
+# STATUS: INSTANTIATED & ACTIVE
+# OBJECTIVE: Harvest core silicon telemetry with minimal resource drag.
+
+[Step 1] Query Win32_Processor load percentage.
+[Step 2] Validate against resonance threshold (< 85%).
+[Step 3] Log metric to ephemeral register and dissolve.
+
+[Recursive Optimization #1]: Streamlined pipeline latency by bypassing redundant CIM queries.
